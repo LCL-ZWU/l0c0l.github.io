@@ -141,14 +141,14 @@ gitment:
     owner: l0c0l
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: f00523b8a68b1f3fda4f
+        client_secret: fe2a88980b63206f67e774f0538085c436a12109
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
     owner: l0c0l
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: cc93ce5aee6b360efe12
+    clientSecret: 9f532fb4843f1761b84ea5064ca518f00ddabdb4
 # utterances 配置参考：https://utteranc.es/
 utterances:
     repo: l0c0l/blog-comments
